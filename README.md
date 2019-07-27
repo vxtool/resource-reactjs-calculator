@@ -1,7 +1,11 @@
 # Resource React Calculator
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/resource-reactjs-calculator.svg?style=flat-square)](https://github.com/descco-tools/resource-reactjs-calculator/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-reactjs-calculator.svg)](https://github.com/org-victorinox/resource-reactjs-calculator/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-reactjs-calculator.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-reactjs-calculator.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-reactjs-calculator.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-reactjs-calculator/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/resource-reactjs-calculator/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-reactjs-calculator/releases) for detailed changelog.
 
 ## License
 
